@@ -1,1 +1,9 @@
-#Bagel Smart Contract Account(modular)
+```
++-----------------------------------+
+|          Torus Account            |
++-----------------------------------+
+|  Modular Smart Contract Account   |
++-----------------------------------+
+|Omnichain Account Abstraction Infra|
++-----------------------------------+
+```
